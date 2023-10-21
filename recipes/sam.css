@@ -1,0 +1,24 @@
+img {
+    height: 500px;
+    
+}
+
+h3 {
+    color: brown;  
+    background-color: burlywood;
+}
+
+p {
+    color: tomato;
+    background-color: darkgreen;
+}
+
+ol {
+    color: yellow;
+    background-color: purple;
+}
+
+ul {
+    color: seagreen;
+    background-color: orangered;
+}

@@ -1,0 +1,23 @@
+img {
+    width: 300px;
+    
+}
+
+h3 {
+    background-color: rgba(41, 148, 219, 0.562);
+    color: blueviolet;
+}
+
+p {
+    color: green;
+}
+
+ol {
+    color: orangered;
+}
+
+ul {
+    color: indigo;
+    font-family: 'Times New Roman', 'Courier New', Arial;
+    
+}
